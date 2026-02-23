@@ -6,3 +6,5 @@ ipykernel
 notebook
 matplotlib
 seaborn
+wrds
+python-dotenv
